@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         自动答题脚本（低日志版）
+// @name         自动答题脚本（低日志版2）
 // @namespace    https://tampermonkey.net/
 // @version      1.0.2
 // @description  自动处理摄像头确认弹框、视频播放与确认逻辑（减少控制台日志）
